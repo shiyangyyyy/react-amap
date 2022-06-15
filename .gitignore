@@ -1,10 +1,8 @@
 # Thank you : https://github.com/github/gitignore/blob/master/Node.gitignore
 
 # project
-dist/
 _site/
 _draft/
-lib/
 .npmignore
 
 # Logs
