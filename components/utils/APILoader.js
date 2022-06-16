@@ -1,5 +1,5 @@
 const DEFAULT_CONFIG = {
-  v: '1.4.0',
+  v: '2.0',
   hostAndPath: 'webapi.amap.com/maps',
   key: 'f97efc35164149d0c0f299e7a8adb3d2',
   callback: '__amap_init_callback',
